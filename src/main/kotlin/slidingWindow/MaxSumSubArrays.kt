@@ -1,3 +1,5 @@
+package slidingWindow
+
 fun maxSumOfSubArrays(array: IntArray, k: Int): Int{
     var maxSum = 0
     var nowSum = 0

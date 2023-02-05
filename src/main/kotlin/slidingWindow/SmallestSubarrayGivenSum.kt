@@ -1,3 +1,5 @@
+package slidingWindow
+
 fun smallestSubArrayGivenSum(array: IntArray, s: Int): Int {
     var startElement: Int
     var currentSum: Int = 0
