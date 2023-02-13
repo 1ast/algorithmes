@@ -7,5 +7,6 @@ fun main(args: Array<String>) {
 //    println(slidingWindow.longestSubstringWithDistinctCharacters("araaci", 1))
 //    println(slidingWindow.longestSubstringWithDistinctCharacters("cbbebi", 3))
 //    println(slidingWindow.numOfSubarrays(intArrayOf(11,13,17,23,29,31,7,5,2,3), 3, 5))
-    println(fruitInBasket(charArrayOf('A', 'B', 'C', 'A', 'C'), 2))
+//    println(fruitInBasket(charArrayOf('A', 'B', 'C', 'A', 'C'), 2))
+    println(targetSumOfArray(intArrayOf(2, 5, 9, 11), 11).asList().toString())
 }
